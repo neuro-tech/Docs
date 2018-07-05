@@ -679,9 +679,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: Template_3D
-  organizationId: 
+  cloudProjectId: c68b0881-c687-4dfb-b450-0e874584a7e3
+  projectName: MultiplayerBrackeys
+  organizationId: harsh_p
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
